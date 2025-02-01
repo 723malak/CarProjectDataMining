@@ -13,7 +13,7 @@ Voici l'arborescence des fichiers du projet :
 ├── notebooks
 │   ├── car_price_dataset.ipynb
 ├── reports
-│   ├── rapport.pdf
+│   ├── Rapport_Projet_DataMining.pdf
 ├── README.md
 
 ```
